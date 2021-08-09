@@ -2,7 +2,7 @@
 
 Live Demo !!!!!  https://akhil0603.github.io/MedicalAppLandingPage/
 
-A landing page is any web page that a consumer can land on, but in the marketing realm, it's usually a standalone page, distinct from your homepage or any other page, that serves a single and focused purpose. A landing page is a follow up to any promises that you've made in your content
+A landing page is any web page that a consumer can land on, but in the marketing realm, it's usually a standalone page, distinct from your homepage or any other page, that serves a single and focused purpose. A landing page is a follow up to any promises that you've made in your content .
 
 # Features 
 
